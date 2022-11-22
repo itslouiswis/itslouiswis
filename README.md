@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itslouiswis
+- 👀 I’m interested in making systems especially web developing
+- 🌱 I’m currently learning JAVA and Oracle Database
+- 📫 How to reach me just hit up my email simonloudaniel@gmail.com
+-
